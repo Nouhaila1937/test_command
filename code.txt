@@ -1,7 +1,6 @@
 "PremiŠre ligne de code" 
 Ligne corrigÃ©e : Pas de bug ici.
-<<<<<<< HEAD
 test Ligne.
 test 2 Ligne 2.
-=======
->>>>>>> parent of a0783ea ( test ligne)
+
+
